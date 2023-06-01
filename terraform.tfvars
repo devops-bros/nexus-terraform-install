@@ -3,4 +3,4 @@
  aws_key = "my_ec2_key"
  qa_server = false
  uat_server = false
- nexus_server = false
+ nexus_server = true
